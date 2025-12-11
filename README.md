@@ -17,7 +17,7 @@ I enjoy the music YouTube Music	[![YouTube Music](https://img.shields.io/badge/Y
 
 
 ## socials
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/daniel-esteban-rivera-156947221)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([www.linkedin.com/in/daniel-esteban-rivera-156947221](https://www.linkedin.com/in/daniel-esteban-rivera/))
 
 
 
