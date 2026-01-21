@@ -18,6 +18,8 @@ I enjoy the music YouTube Music	[![YouTube Music](https://img.shields.io/badge/Y
 ## Programming
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Drago667)](https://codeforces.com/profile/Drago667)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drago668&show_icons=true&theme=blueberry)
+
 
 ## socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daniel-esteban-rivera)   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
