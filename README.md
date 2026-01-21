@@ -1,5 +1,6 @@
 # Hi there 👋, I'm drago  
 ## Systems engineer
+Systems Engineering student at the University of Cundinamarca, with experience in web application development and data science. I have worked on academic projects focused on social impact, geospatial analysis, and early detection of issues through web and backend technologies. I am seeking internships or projects where I can contribute my skills to the improvement or development of software solutions using Python, Django, HTML, and JavaScript.
 🔭 I’m currently working on my future
 
 ## Tech stack &Tools
